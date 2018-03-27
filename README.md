@@ -13,7 +13,7 @@
 
 ## Installation
 Once the nodejs and npm are installed. Download java and setup the environment variables. 
-- Open `MobileFirst Platform Developer Kit` folder and run `./run.sh` (Mac/linux) or `run.cmd` (Windows). This will create development server locally. [For more details, Click Here](https://www.ibm.com/support/knowledgecenter/SSHS8R_8.0.0/com.ibm.worklight.dev.doc/dev/t_installing_dev_kit.html)
+- Open `MobileFirst Platform Developer Kit` folder and run `./run.sh` (Mac/linux) or `run.cmd` (Windows). This will create development server locally. [For more details, Click Here](https://mobilefirstplatform.ibmcloud.com/downloads/)
 - Run `npm i -g ionic cordova gulp-cli`. This command will install the softwares on global level.
 - Next execute `npm i -g mfpdev-cli`. If your facing issues with this, make sure you install npm with a version of 3.10.10. Otherwise, it keeps throwing errors.
 
