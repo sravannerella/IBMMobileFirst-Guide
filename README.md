@@ -3,8 +3,8 @@
 ## Required Softwares
 * nodejs@6.0.0
 * npm@3.10.10
-* ionic@1.7.14
-* Cordova@6.1.1
+* ionic
+* Cordova
 * Gulp
 * MobileFirst 8
 * mfpdev-cli
